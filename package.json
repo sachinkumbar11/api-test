@@ -1,0 +1,21 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "esm": "^3.2.25",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.10.15",
+    "nanoid": "^3.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
